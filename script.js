@@ -1,5 +1,5 @@
-<script src='http://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.js'></script>
-<script>
+
+
 $( document ).ready(function() {
     var $developmentWrapper = $('.development-wrapper');
     var developmentIsVisible = false;
@@ -16,4 +16,3 @@ $( document ).ready(function() {
       });
 	  })
 	}); 
-</script>
